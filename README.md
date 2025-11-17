@@ -29,3 +29,39 @@ Tkinter → GUI
 Pillow (PIL) → Image loading & resizing
 
 (Optional) OS module → Directory browsing
+
+📸 How It Works
+
+The program loads all images from a selected directory
+
+Displays them inside a Tkinter window
+
+Navigation buttons let the user move forward/backward
+
+PIL handles resizing to fit the window without distortion
+
+🧩 Code Concepts Used
+
+Tkinter GUI layout (Frames, Labels, Buttons)
+
+Event-driven programming
+
+PIL for image conversion and resizing
+
+File and directory handling
+
+Try/except error management
+
+🔮 Future Improvements
+
+Zoom in/out
+
+Rotate images
+
+Slideshow mode
+
+Drag-and-drop image loading
+
+Dark/light UI theme
+
+Keyboard shortcuts
